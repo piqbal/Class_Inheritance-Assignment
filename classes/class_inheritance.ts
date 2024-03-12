@@ -18,7 +18,7 @@ class student extends persons{
    }
 
    let person1=new persons("Pervaiz", 31, ["Coding", "CardsGame"])
-   let person2=new student("Hassan", 3, ["watch cartoon"], 1)
+   let person2=new student("Hassan", 3, ["watch cartoon"], 2)
 
 console.log(person1.introduce())
 console.log(person2.introduce())

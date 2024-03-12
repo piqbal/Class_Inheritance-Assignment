@@ -23,7 +23,7 @@ class person {
 }
 
 let person1= new person("per",["codig"])
-person1.age=344
+person1.age=343
 console.log(person1.introduce())
 
 

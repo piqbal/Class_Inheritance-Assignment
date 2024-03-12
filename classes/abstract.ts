@@ -24,7 +24,7 @@ introduce(){
 }
 }
 
-let result1=new student("green",5)
+let result1=new student("red",5)
 console.log(result1.introduce())
 
 
