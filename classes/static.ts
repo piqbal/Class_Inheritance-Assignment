@@ -13,7 +13,7 @@ class mathoperation{
     public static n=Math.PI
     
 }
-console.log(mathoperation.add(5,5))
+console.log(mathoperation.add(5,6))
 console.log(mathoperation.sub<boolean,number>(true, 44))
 console.log(mathoperation.n)
 
